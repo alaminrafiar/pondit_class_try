@@ -1,4 +1,4 @@
-# pondit_class_try
+# pondit_class_try game
 
 A new Flutter project.
 
